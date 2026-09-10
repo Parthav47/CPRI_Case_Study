@@ -1,0 +1,24 @@
+# Data manipulation
+pandas
+numpy
+
+# Excel file support
+openpyxl
+
+# Visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Gradient Boosting models
+xgboost
+lightgbm
+
+# Model interpretation
+shap
+
+# Jupyter environment
+jupyter
+ipykernel

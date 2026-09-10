@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.vscode/
+.ipynb_checkpoints/
+
+# OS and editor metadata
+.DS_Store
+Thumbs.db
+
+# Generated data and model artifacts
+data/processed/*
+submissions/*
+
+# Local raw datasets
+data/raw/*
+*.xlsx
+*.xls
+
+# Credentials and private keys
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
