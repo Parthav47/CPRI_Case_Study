@@ -1,4 +1,4 @@
-# 0xPOWER — Black-Box Test Bench Intelligence
+# Black-Box Test Bench Intelligence
 
 > An end-to-end machine learning pipeline for detecting invalid test-bench records and predicting an unknown reference parameter from operating conditions and sensor measurements.
 
@@ -407,8 +407,6 @@ Regime-aware Prediction
 This is the main technical direction that would be investigated in a second iteration: extend the black-box inference pipeline by explicitly identifying operating regimes and then modelling the sensor relationships within those regimes.
 
 ## 7. Outro
-
-0xPOWER started as a competition submission, but the more valuable outcome was the investigation itself.
 
 The project demonstrates an end-to-end approach to a black-box ML problem:
 
