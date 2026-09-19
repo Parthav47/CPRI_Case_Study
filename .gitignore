@@ -2,16 +2,22 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+env/
+ENV/
 .env
 .env.*
-.vscode/
 .ipynb_checkpoints/
-
-# OS and editor metadata
+.vscode/
 .DS_Store
 Thumbs.db
-
-# Credentials and private keys
+*.log
+models/
+*.joblib
+data/raw/*.xlsx
+data/raw/*.xls
+data/processed/*.csv
+submissions/*.csv
+submissions/*.json
 *.pem
 *.key
 *.p12
